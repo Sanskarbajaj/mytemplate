@@ -1,0 +1,2 @@
+# mytemplate
+compPrgm
